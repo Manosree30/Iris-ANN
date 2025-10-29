@@ -72,7 +72,7 @@ Iris-ANN/
  Built an interactive web app to input feature values.
 
 Scales user input and predicts flower species using the trained ANN model.
-app("https://manosree30-iris-ann-app-vakpb1.streamlit.app/")
+app("https://manosree30-iris-ann-app-dmg7kq.streamlit.app/")
 
 ## Results
 
